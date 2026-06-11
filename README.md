@@ -1,4 +1,5 @@
 # Supply Chain Analysis using Power BI
+<img width="1165" height="660" alt="Overview" src="https://github.com/user-attachments/assets/922e2aa3-20a6-4530-8ad1-21d2553e4ca6" />
 
 ## Project Overview
 
