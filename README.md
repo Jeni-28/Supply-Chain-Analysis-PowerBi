@@ -204,4 +204,9 @@ Skills:
 - SQL
 - Python
 - Excel
-- Data Analytics
+- Data Analysis
+- Basics of ML,LLM
+  
+## Connect with me
+LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jenihelan-m/)
+
