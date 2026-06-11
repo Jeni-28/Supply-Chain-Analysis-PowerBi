@@ -176,19 +176,19 @@ The project successfully demonstrates how Power BI can be used to analyze supply
 ## Dashboard Preview
 
 ### Overview Dashboard
-(Add Screenshot Here)
+<img width="1165" height="660" alt="Overview" src="https://github.com/user-attachments/assets/cd8e59a2-1607-4257-8e39-09df309e7045" />
 
 ### Sales Dashboard
-(Add Screenshot Here)
+<img width="1169" height="659" alt="Sales Analysis" src="https://github.com/user-attachments/assets/93b14349-7bb4-42e9-8478-1cca9aea6d59" />
 
 ### Inventory Dashboard
-(Add Screenshot Here)
+<img width="1177" height="671" alt="Inventory Analysis" src="https://github.com/user-attachments/assets/8d904da5-e4d3-4736-b49a-1b5ce11df0a8" />
 
 ### Delivery Dashboard
-(Add Screenshot Here)
+<img width="1233" height="691" alt="Delivery Analysis" src="https://github.com/user-attachments/assets/c8ab0ca9-2a4e-4396-a095-7f2e51845ad3" />
 
 ### Quality Dashboard
-(Add Screenshot Here)
+<img width="1230" height="690" alt="Quality Analysis" src="https://github.com/user-attachments/assets/dfa7ac05-1b51-43e8-b8d0-3e6bdf6cf443" />
 
 ---
 
